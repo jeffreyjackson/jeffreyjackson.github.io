@@ -1,4 +1,4 @@
 jeffreyjackson.github.io
 ========================
 
-JeffreyJackson website
+Personal Website
